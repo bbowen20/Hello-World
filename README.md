@@ -1,3 +1,3 @@
 # Hello-World
 First Repo
-Ready to take sfotware engineering head on
+Ready to take software engineering head on
